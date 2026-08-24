@@ -8,4 +8,4 @@
 
 Проектирование ER-модели и реализация реляционной базы данных больничной информационной системы в PostgreSQL.
 
-[View assignment](./01-hospital-database/)
+[Посмотреть assignment 1](./01-hospital-database/)
